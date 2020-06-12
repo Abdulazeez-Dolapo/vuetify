@@ -123,7 +123,7 @@
     "shaped": "Round if `outlined` and increase `border-radius` if `filled`. Must be used with either `outlined` or `filled`"
   },
   "slots": {
-    "append-outer": "Appends an item inside input content",
+    "append-outer": "Appends an item after input content",
     "prepend-inner": "Prepends an item inside input content"
   },
   "events": {
